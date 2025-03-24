@@ -1,0 +1,3 @@
+MOGODB_URL_KEY:str="MONGO_DB_URL"
+MOGODB_DATABASE_NAME:str="myntra-Review"
+SESSION_PRODUCT_KEY:str="Product_names"
